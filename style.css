@@ -1,0 +1,29 @@
+.body_background{
+    background-image: url("https://previews.123rf.com/images/samuiarzt/samuiarzt1201/samuiarzt120100062/11904641-attractive-pencil-frame-on-white-background-.jpg");
+    background-position: center;
+    background-size: cover;
+}
+body{
+    cursor: pointer;
+}
+h1{
+    color: mediumslateblue;
+    font-size: 40px;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: snow;
+border-style: ridge;
+}
+button{
+    background-color: springgreen;
+    border : none;
+color: teal;
+padding: 10px 42px;
+font-size: 16px;
+}
+
+input{
+    margin-right: 20px;
+}
